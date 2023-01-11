@@ -169,7 +169,7 @@ nav {
   max-width: 300px;
   margin: auto;
 }
-.back-iconmax {
+.back-icon-2 {
   background-color: rgb(122, 135, 143);
   border-radius: 10%;
   margin: auto;
@@ -478,7 +478,7 @@ nav {
     height: 10rem;
     border-radius: 10px;
   }
-  .back-iconmax {
+  .back-icon-2 {
     width: 150px;
     height: 120px;
   }
