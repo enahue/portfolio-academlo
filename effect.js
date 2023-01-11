@@ -1,5 +1,5 @@
 ScrollReveal({ reset: true });
-ScrollReveal().reveal('.icon-containermax',{
+ScrollReveal().reveal('.icon-container-2',{
   duration: 1000,
   origin: "left",
   distance: "300px"

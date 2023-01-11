@@ -134,7 +134,7 @@ nav {
   margin-top: 1rem;
 }
 
-.exp {
+.experience {
   margin-top: 2rem;
 }
 .icon-container {
@@ -159,7 +159,7 @@ nav {
   flex-direction: row;
   align-items: center;
 }
-.icon-containermax {
+.icon-container-2 {
   display: flex;
   justify-content: space-between;
   gap: 0.5rem;
@@ -355,7 +355,7 @@ nav {
     max-width: auto;
     width: 200px;
   }
-  .icon-containermax {
+  .icon-container-2 {
     max-width: 500px;
   }
   .img-container {
@@ -472,7 +472,7 @@ nav {
     min-width: 30px;
     margin: 0.5rem;
   }
-  .icon-containermax {
+  .icon-container-2 {
     max-width: 100%;
     margin: 0 20%;
     height: 10rem;
