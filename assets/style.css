@@ -178,12 +178,12 @@ nav {
   width: 60px;
   height: 40px;
 }
-.iconmax {
+.icon-2 {
   margin: 0.5rem;
   max-width: 30px;
   min-height: 30px;
 }
-.text-contain {
+.text-container {
   color: rgb(138, 132, 132);
   text-align: center;
   max-width: 300px;
@@ -483,10 +483,10 @@ nav {
     height: 120px;
   }
 
-  .iconmax {
+  .icon-2 {
     max-width: 70px;
   }
-  .text-contain {
+  .text-container {
     color: rgb(138, 132, 132);
     text-align: center;
     max-width: 70%;
