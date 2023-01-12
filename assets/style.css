@@ -65,12 +65,6 @@ nav {
   padding: 6px 10px;
   border-radius: 2rem;
 }
-/*
-.nav-menu-link:hover {
-  color: black;
-  transition: 0.5s;
-  box-shadow: 4px 4px 7px #333;
-}*/
 .home {
   color: #34b0be;
 }
@@ -362,8 +356,8 @@ nav {
     overflow-y: hidden;
   }
 }
-/*----------- 930px----------*/
-@media screen and (min-width: 930px) {
+/*----------- 930px --> new 1024----------*/
+@media screen and (min-width:1024px) {
   nav {
     max-width: 930px;
   }
